@@ -35,7 +35,7 @@ Data Analytics project that investigates the effect of energy consumption by the
 ### 3. Trend Analysis
 - Moving averages smooth out the volatile year on year changes the green line represents this
 - the red line shows the actual trends in copper production as can be seen it is very volatile.
-![Copper Production trend](Copper%20production%20trend%20.png)
+![Copper Production trend](Copper%20production%20trend.png)
 
 ## 🔍 Methodology
 
