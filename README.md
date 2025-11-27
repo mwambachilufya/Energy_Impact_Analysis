@@ -22,7 +22,8 @@ Data Analytics project that investigates the effect of energy consumption by the
 - Visualizes standardized production and consumption metrics over time
 - Identifies periods of high efficiency vs. operational waste
 - Reference lines at average (Z = 0) for quick comparison
-
+![Z Score Analysis](Z%20Score%20analysis.png)
+*Z-Score analysis showing efficiency trends and operational patterns (2014-2024)*
 
 
 
