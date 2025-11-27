@@ -26,18 +26,16 @@ Data Analytics project that investigates the effect of energy consumption by the
 ![Z Score Analysis](Z%20Score%20analysis.png)
 *Z-Score analysis for copper production and electricity consumption by mines from (2014-2024)*
 
-
-
-
 ### 2. Scatter Plot with Regression
-- Shows relationship between electricity consumption and copper production
-- Displays weak negative trend line (r = -0.303)
-- Highlights the lack of strong linear relationship
+- Shows  the relationship between electricity consumption and copper production
+- shows a weak negative trend line (r = -0.303)
+- shows the lack of strong linear relationship meaning electricity consumption is not a very significant factor in determining how much copper is produced.
+![Scatter Plot](Scatter%20plot%20for%20linear%20regression.png)
 
 ### 3. Trend Analysis
-- Moving averages smooth year-to-year volatility
-- Reveals long-term production patterns
-- Shows recent decline in both metrics
+- Moving averages smooth out the volatile year on year changes the green line represents this
+- the red line shows the actual trends in copper production as can be seen it is very volatile.
+![Copper Production trend](Copper%20production%20trend%20.png)
 
 ## 🔍 Methodology
 
